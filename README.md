@@ -1,16 +1,9 @@
 <img src="https://i.postimg.cc/8Pmq64F8/ffc021aba59702d8752e58b9f469da3c-(1).jpg" alt="Banner" width="100%"> 
 
 
-<!-- Kaomoji en verde pastel -->
+<!-- Kaomoji -->
 <p align="center">
-  ${\mathsf{\color{#98d8aa}(๑•́••́)}}$
-</p>
-
-<br>
-
-<!-- Insignia en verde pastel -->
-<p align="center">
-  <img src="https://shields.io">
+  (๑•́••́)
 </p>
 
 <!-- Recuadro de títulos -->
@@ -23,6 +16,7 @@
 > ( ﾐ ´ ꒳ ` ﾐ ) マ ( . ˬ . ʋ ) ɞ
 
 <br>
+
 
 <p align="center">
   <img src=https://i.postimg.cc/Vkc7xK6V/4-sin-titulo-20261121211058.png" height="95">
