@@ -5,10 +5,6 @@
   ${\mathsf{\color{#98d8aa}(๑•́••́)}}$
 </p>
 
-<p align="center">
-  <sub>I wish i could</sub>
-</p>
-
 <br>
 
 <!-- Insignia en verde pastel -->
