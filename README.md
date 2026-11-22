@@ -27,8 +27,7 @@
 
 <br>
 
-<!-- Fila inferior con tus dos personajes -->
 <p align="center">
-  <img src="https://postimg.cc" height="95">
-  <img src="https://postimg.cc" height="95">
+  <img src="https://postimg.cc" height="85">
+  <img src="https://postimg.cc" height="85">
 </p>
