@@ -26,6 +26,6 @@
 <br>
 
 <p align="center">
-  <img src="4-sin-titulo-20261121211058.png" height="95">
+  <img src=https://i.postimg.cc/Vkc7xK6V/4-sin-titulo-20261121211058.png" height="95">
   <img src="1000110825-removebg-preview.png" height="95">
 </p>
